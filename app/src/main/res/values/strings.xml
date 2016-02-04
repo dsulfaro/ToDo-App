@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Shit I gotta get done</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="task_done">Done</string>
+    <string name="placeholder_for_new_task">Enter new task here</string>
+    <string name="OK">OK</string>
+
+</resources>
